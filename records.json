@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Liza",
+        "score": 54,
+        "accuracy": 100.0
+    },
+    {
+        "name": "Masha",
+        "score": 11,
+        "accuracy": 61.11
+    },
+    {
+        "name": "Liza",
+        "score": 72,
+        "accuracy": 98.63
+    },
+    {
+        "name": "Alisa",
+        "score": 13,
+        "accuracy": 72.22
+    }
+]
